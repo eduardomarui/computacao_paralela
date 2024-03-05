@@ -8,3 +8,4 @@ Como compilar o programa na plataforma disponibilizada;
 Como executar o programa;
 
 Como comprovar que os resultados propostos foram alcançados.
+![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/40921d64-d051-42f3-8800-ad2ccbc0f022)
