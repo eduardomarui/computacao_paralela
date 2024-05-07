@@ -19,6 +19,8 @@ Execute o programa usando o seguinte comando:
 ```
 ## V0
 ![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/61ae0a7a-3152-4dc7-a779-aecc676332d5)
+paralelo 
+![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/de09316d-60d4-4893-a1f4-fe77daaad982)
 
 ## Verificação dos Resultados
 O programa imprime o valor calculado de *e*. Verifique este valor comparando-o com o valor padrão de *e* até as casas decimais desejadas.
