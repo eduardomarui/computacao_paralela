@@ -27,7 +27,15 @@ paralelo <br>
 <br>
 critical <br>
 ![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/9aa4383c-46dd-4cfd-b337-7039dce6537f)
-
+<br>
+![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/48c5e942-6421-4722-b2e1-c98a4477441c)
+<br>
+![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/9a79eb28-93dc-487e-8585-1abbc13a106c)
+<br>
+![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/41080e25-a1d4-4e0b-8d61-bc3fb956a04e)
+<br>
+![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/ba6cbac1-50be-4fcb-b441-3ba1310c5d25)
+<br>
 ## Verificação dos Resultados
 O programa imprime o valor calculado de *e*. Verifique este valor comparando-o com o valor padrão de *e* até as casas decimais desejadas.
 
