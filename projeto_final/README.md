@@ -18,7 +18,8 @@ Execute o programa usando o seguinte comando:
 ./programa
 ```
 ## V0
-![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/61ae0a7a-3152-4dc7-a779-aecc676332d5)
+serial
+![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/4175272e-f435-4bad-a576-974b149726cd)
 paralelo 
 ![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/de09316d-60d4-4893-a1f4-fe77daaad982)
 
