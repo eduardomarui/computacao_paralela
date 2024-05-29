@@ -37,8 +37,7 @@ critical <br>
 ![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/ba6cbac1-50be-4fcb-b441-3ba1310c5d25)
 <br>
 ## Verificação dos Resultados
-O programa imprime o valor calculado de *e* Porém na V0 não houveram resultados significantes ao usar paralelismo.
-
+O programa imprime o valor calculado de e. Porém, na V0 não houve resultados significantes ao usar paralelismo devido à sobrecarga de gerenciamento de threads. Além disso, o cálculo da série de Taylor usando o tipo double não apresenta tanta complexidade computacional para se beneficiar do paralelismo.
 ## V1
 ![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/780577a7-5d94-4baf-b9b7-7f65f35c74f5)
 ## Verificação dos Resultados
