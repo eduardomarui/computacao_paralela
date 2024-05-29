@@ -37,17 +37,15 @@ critical <br>
 ![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/ba6cbac1-50be-4fcb-b441-3ba1310c5d25)
 <br>
 ## Verificação dos Resultados
-O programa imprime o valor calculado de *e*. Verifique este valor comparando-o com o valor padrão de *e* até as casas decimais desejadas.
+O programa imprime o valor calculado de *e* Porém na V0 não houveram resultados significantes ao usar paralelismo.
 
 
 ## Problemas Conhecidos
 Nenhum problema conhecido até o momento.
 
 ## Contato
-Para dúvidas ou suporte, entre em contato através do e-mail: souzavitor370@gmail.com
+Para dúvidas ou suporte, entre em contato através do e-mail: eduardomarui@gmail.com souzavitor370@gmail.com 
 
-## Licença
-Este projeto está licenciado sob a Licença MIT.
 
 
 
