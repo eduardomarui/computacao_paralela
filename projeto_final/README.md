@@ -60,8 +60,6 @@ Acumulação dos Resultados Parciais: Após cada thread calcular seu fatorial pa
 A MPFR (Multiple Precision Floating-Point Reliable) é uma biblioteca para cálculos com precisão arbitrária, baseada na biblioteca GMP. Ela é usada para garantir que o cálculo do fatorial seja feito com alta precisão.
 Nessa versão com mais cálculos decimais, a versão parelala se torna uma opção melhor que a serial, visto que diminui o tempo ao aumentar os processaodores, ao aumentar a eficiência do usa das threads no cálculo fatorial e aummentando a complexidade do problema.      
 
-![image](https://github.com/eduardomarui/computacao_paralela/assets/114262770/b8227087-e866-4394-8a07-4c32a26f8358)
-
 
 ## Contato
 Para dúvidas ou suporte, entre em contato através do e-mail: eduardomarui@gmail.com souzavitor370@gmail.com 
