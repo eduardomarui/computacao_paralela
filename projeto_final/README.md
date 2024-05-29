@@ -39,7 +39,12 @@ critical <br>
 ## Verificação dos Resultados
 O programa imprime o valor calculado de *e* Porém na V0 não houveram resultados significantes ao usar paralelismo.
 
+## V1
+![image](https://github.com/eduardomarui/computacao_paralela/assets/105756443/780577a7-5d94-4baf-b9b7-7f65f35c74f5)
+## Verificação dos Resultados
+Na versão 1, utilizamos o cálculo incremental do fatorial, o que diminuiu o tempo de execução em relação à versão 0, mas não obteve impacto significativo ao aumentar o número de threads.
 
+O cálculo incremental do fatorial foi utilizado para evitar o recálculo redundante dos fatoriais dentro do loop paralelo. Em vez de calcular o fatorial de cada número a cada iteração do loop, pré-calculamos os fatoriais e os armazenamos em um array. Isso reduz a complexidade computacional dentro do loop paralelo, permitindo que a operação de soma seja mais eficiente. Apesar dessa otimização ter reduzido o tempo de execução total, o impacto no desempenho com o aumento do número de threads foi limitado devido à sobrecarga de gerenciamento de threads e à diminuição da proporção de trabalho paralelo em relação ao trabalho sequencial.
 ## Problemas Conhecidos
 Nenhum problema conhecido até o momento.
 
